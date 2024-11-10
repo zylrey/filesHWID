@@ -239,6 +239,14 @@ del C:\windows\temp
 cls
 del /s /q C:\Users\%USERNAME%\AppData\Local\FiveM.app\logs
 cls 
+del /s /q C:\Users\%USERNAME%\AppData\Roaming\CitizenFX
+cls 
+del /s /q C:\Users\%USERNAME%\AppData\Local\DigitalEntitlements
+cls 
+del /s /q C:\Users\%USERNAME%\AppData\Local\Fivem.app\citizen
+cls 
+del /s /q C:\Users\%USERNAME%\AppData\Local\Fivem.app\data\cache
+cls 
 del /s /q C:\Users\%USERNAME%\Recent
 cls
 del /s /q C:\Users\%USERNAME%\AppData\Local\FiveM.app\crashes
